@@ -37,7 +37,7 @@ This code is used for running experiments for the paper.
    pip install openai==0.28
    ```
 
-5. **Main experiments**: Before running the `main.py` to get results, please replace your api key in our **Edge LLM** and **TriangleLLM** in `llm_clustering\active_semi_supervised_clustering\active_semi_clustering\active\pairwise_constraints\gpt3_pc_oracle_edge.py` and `llm_clustering\active_semi_supervised_clustering\active_semi_clustering\active\pairwise_constraints\gpt3_pc_oracle_triangle.py`, and check the parameters in it.
+5. **Main experiments**: Before running the `main.py` to get results, please replace your api key in our **EdgeLLM** and **TriangleLLM** in `llm_clustering\active_semi_supervised_clustering\active_semi_clustering\active\pairwise_constraints\gpt3_pc_oracle_edge.py` and `llm_clustering\active_semi_supervised_clustering\active_semi_clustering\active\pairwise_constraints\gpt3_pc_oracle_triangle.py`, and check the parameters in it.
 
    For example:
 
